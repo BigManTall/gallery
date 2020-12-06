@@ -4,15 +4,23 @@
       "height": 6000,
       "compressed_path": "./photos/Portraits/DSC05408.min.png",
       "width": 4000,
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Portraits/DSC05408.placeholder.png",
       "path": "./photos/Portraits/DSC05408.png"
     },
     {
       "height": 6000,
+      "compressed_path": "./photos/Portraits/DSC05147.min.png",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC05147.placeholder.png",
+      "path": "./photos/Portraits/DSC05147.png"
+    },
+    {
+      "height": 6000,
       "compressed_path": "./photos/Portraits/DSC05397.min.png",
       "width": 4000,
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Portraits/DSC05397.placeholder.png",
       "path": "./photos/Portraits/DSC05397.png"
     },
@@ -20,7 +28,7 @@
       "height": 6000,
       "compressed_path": "./photos/Portraits/DSC05394.min.png",
       "width": 4000,
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Portraits/DSC05394.placeholder.png",
       "path": "./photos/Portraits/DSC05394.png"
     },
@@ -28,9 +36,10 @@
       "height": 5402,
       "compressed_path": "./photos/Portraits/DSC05405.min.png",
       "width": 4000,
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Portraits/DSC05405.placeholder.png",
       "path": "./photos/Portraits/DSC05405.png"
     }
-  ]
+  ],
+  "Landscapes": []
 }
