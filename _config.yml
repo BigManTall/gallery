@@ -3,7 +3,7 @@
 #############################
 
 # The title that appears on the tab
-title: Andy Zhang's Gallery
+title: Tyrel Morris Gallery
 
 # The title on the web page
 full_name: Andy Zhang
@@ -16,7 +16,7 @@ layout_style: ROWS
 # not remove the property.
 
 # Integer: Spacing between each photo
-spacing: 10
+spacing: 1
 
 # Boolean(true|false): Shuffle the photos in the album
 shuffle: false
